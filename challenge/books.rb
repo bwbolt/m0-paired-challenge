@@ -10,4 +10,4 @@ good_read = true
 read_time = 10.5
 has_read = false
 
-book_subjects = ["Comedy","History","Development","Fiction"]
+book_subjects = ["Comedy", "History", "Development", "Fiction"]
