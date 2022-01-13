@@ -4,7 +4,7 @@
 2. The Man in the Sea
 3. Extreme Ownership
 4. Breaking Buds
-5. Existentialism is a Humanism
+5. Existentialism is a Humanism (great read)
 
 
 # Workflow
