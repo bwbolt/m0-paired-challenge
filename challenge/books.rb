@@ -1,4 +1,4 @@
-# The title was chosen because the file is about books!
+# The name was chosen because the file is about books!
 title = "Extreme Ownership"
 # Assigned the variable "length" the value of 540
 length = 540
